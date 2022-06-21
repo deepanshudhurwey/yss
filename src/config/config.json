@@ -1,0 +1,27 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "myPassword",
+        "database": "KBSYSS",
+        "schema":"YSS",
+        "host": "43.204.211.43",
+        "dialect": "postgres",
+        "port": 5432,
+        "logging":false,
+        "JSONWEBSECRET" : "KBSYSSYUVA",
+        "OTPSECRET" :"KBSYSSOTP",
+        "MongodbAPI" : "mongodb://43.204.211.43:27017/yssmongodb",
+        "GOOGLE_CLIENT_ID" : "326323272774-5sau3g20rev2kdf9rdoriafpqhlkmesp.apps.googleusercontent.com",
+        "GOOGLE_CLIENT_SECRET" : "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",
+        "FACEBOOK_APP_ID" :"343540554575812",
+        "FACEBOOK_APP_SECRET" :"fa8a0c8db97feb61ba2b7819482fb57e",
+        "client_id_email" : "326323272774-vmuudm23mrotjk5jcqh9m52qksb9h0vb.apps.googleusercontent.com",
+        "client_secret_email" : "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",
+        "redirected_url" : "https://developers.google.com/oauthplayground/",
+        "refresh_token": "1//04YJrwU5CXJnMCgYIARAAGAQSNwF-L9IrWcG2e3IsawlqN5As4-BMNolpcai5Gv6unKSJSPg1UTIFC0aoCK3boZ31XrQ8zvo1bTA"
+  
+  
+    
+
+    }
+}
